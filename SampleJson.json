@@ -1,0 +1,17 @@
+{
+   "CustomerPurchaseOrderNumber" : 001,
+   "CustomerPurchaseOrderDate" :   22-01-2020,
+   "BillToID" : 123,
+   "SoldToID" : 623,
+   "CustomerPurchaseOrderLine" : "New Product",
+   "ProudctCode" : 6464,
+   "OrderQuantity" : 21313,
+   "OrderQuantityUOM" : 
+   "SlitSequence" : 45,
+   "SlitRolCount" : 21,
+   "SlitWIdth" : 123,
+   "SlitWIdthUOM" : 
+   "SlitLenght" : 221,
+   "SlitLenghtUOM" : 
+}
+
