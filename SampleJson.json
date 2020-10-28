@@ -6,12 +6,12 @@
    "CustomerPurchaseOrderLine" : "New Product",
    "ProudctCode" : 6464,
    "OrderQuantity" : 21313,
-   "OrderQuantityUOM" : 
+   "OrderQuantityUOM" : "null",
    "SlitSequence" : 45,
    "SlitRolCount" : 21,
    "SlitWIdth" : 123,
-   "SlitWIdthUOM" : 
+   "SlitWIdthUOM" : "null", 
    "SlitLenght" : 221,
-   "SlitLenghtUOM" : 
+   "SlitLenghtUOM" : "null"
 }
 
