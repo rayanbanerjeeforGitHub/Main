@@ -5,7 +5,7 @@
    "BillToID" : 123,
    "SoldToID" : 623,
    "CustomerPurchaseOrderLine" : "New Product",
-   "ProudctCode" : 6464,
+   "ProductCode" : 6464,
    "OrderQuantity" : 21313,
    "OrderQuantityUOM" : "null",
    "SlitSequence" : 45,
