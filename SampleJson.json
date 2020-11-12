@@ -4,10 +4,12 @@
    "CustomerPurchaseOrderDate" : "null",
    "BillToID" : 123,
    "SoldToID" : 623,
-   "CustomerPurchaseOrderLine" : [{"New Product Test1"}
-                                  {"New Product Test2"}
-                                  {"New Product Test3"}
-                                  {"New Product Test4"}],
+   "CustomerPurchaseOrderLine" : [
+                                    {"New Product Test1"}
+                                    {"New Product Test2"}
+                                    {"New Product Test3"}
+                                    {"New Product Test4"}
+                                 ],
    "ProductCode" : 6464,
    "OrderQuantity" : 21313,
    "OrderQuantityUOM" : "null",
