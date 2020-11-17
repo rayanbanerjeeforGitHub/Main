@@ -23,29 +23,26 @@
    "Customer Requested Date" : "",
    "BillToID" : 123,
    "SoldToID" : 623,
-   "PO Line" : {
-                 "Order1" : [ 
-                              {
-                                 "Line 1" : "null",
-                                 "Line 2" : "null",
-                              }
-                            ],
-                "Order 2" : [
-                              {
-                                 "Line 1" : "null",
-                                 "Line 2" : "null",
-                              }
-                            ]
-               },
-   " Customer Product Code" : 6464,
-   "Prdocut Code(MFG)"  : "",
-   "OrderQuantity" : 21313,
-   "OrderQuantityUOM" : "null",
-   "SlitSequence" : 45,
-   "SlitRolCount" : 21,
-   "SlitWIdth" : 123,
-   "SlitWIdthUOM" : "null", 
-   "SlitLenght" : 221,
-   "SlitLenghtUOM" : "null"
+   "Order Lines" : [
+                     {
+                        "Customer Product Code" : 6464,
+                        "Prdocut Code(MFG)" : "",
+                        "OrderQuantity" : 21313,
+                        "OrderQuantityUOM" : "null",
+                        "SlitSequence" : 45,
+                        "SlitRolCount" : 21,
+                        "SlitWIdth" : 123,
+                        "SlitWIdthUOM" : "null",
+                        "SlitLenght" : 221,
+                        "Length" : 12,
+                        "SlitLenghtUOM" : "null",
+                        "Product Type" : "null",
+                        "PO Line Order Quantity" : "",
+                        "PO Line Order Quantity UOM" : { "Unit of Measure" : "", "Quant Emb" : "", "Quantidade: : ""}
+                        "Desired Date" : "",
+                        "Due Date" : "",
+                        "Customer Requested Date" : "",
+                     }  
+                   ],
 }
 
