@@ -7,7 +7,7 @@
    "Type of Offer" : "null",
    "Date of reception of PO" : "",
    "Time of reception of PO" : "",
-   "Product Type" : "null"
+   "Product Type" : "null",
    "Canal" : "",
    "Site" : "",
    "PO Line Order Quantity" : "",
@@ -16,14 +16,27 @@
                                     "Unit of Measure" : "",
                                     "Quant Emb" : "",
                                     "Quantidade: : "",
-                                    "Length" : ""
+                                    "Length" : "",
                                   },
    "Desired Date" : "",
    "Due Date" : "",
    "Customer Requested Date" : "",
    "BillToID" : 123,
    "SoldToID" : 623,
-   "PO Line" : ["New Producct1", "New Product2"],
+   "PO Line" : {
+                 "Order1" : [ 
+                              {
+                                 "Line 1" : "null",
+                                 "Line 2" : "null",
+                              }
+                            ],
+                "Order 2" : [
+                              {
+                                 "Line 1" : "null",
+                                 "Line 2" : "null",
+                              }
+                            ]
+               },
    " Customer Product Code" : 6464,
    "Prdocut Code(MFG)"  : "",
    "OrderQuantity" : 21313,
