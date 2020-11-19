@@ -34,7 +34,6 @@
                         "Desired Date" : "",
                         "Due Date" : "",
                         "Customer Requested Date" : ""},
-                     
                      {
                         "Customer Product Code" : 6464,
                         "Prdocut Code(MFG)" : "",
@@ -49,7 +48,6 @@
                         "SlitLenghtUOM" : "null",
                         "Product Type" : "null",
                         "PO Line Order Quantity" : "",
-                        
                         "Desired Date" : "",
                         "Due Date" : "",
                         "Customer Requested Date" : "" } 
