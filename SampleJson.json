@@ -2,7 +2,6 @@
    "CustomerName" : "Rayan1",
    "Customer PO Number" : 100,
    "Customer PO Date" : "null",
-   "Customer mail" : "null",
    "Customer PO Number" : "null",
    "Type of Offer" : "null",
    "Date of reception of PO" : "",
@@ -51,6 +50,7 @@
                         "Desired Date" : "",
                         "Due Date" : "",
                         "Customer Requested Date" : ""} 
-                  ]
+                  ],
+   "Customer mail" : "null"
 }
 
