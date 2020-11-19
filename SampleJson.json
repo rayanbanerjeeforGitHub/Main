@@ -31,7 +31,7 @@
                         "SlitLenghtUOM" : "null",
                         "Product Type" : "null",
                         "PO Line Order Quantity" : "",
-                        "PO Line Order Quantity UOM" : { "Unit of Measure" : "", "Quant Emb" : "", "Quantidade: : ""}
+                        "PO Line Order Quantity UOM" : { "Unit of Measure" : "", "Quant Emb" : "", "Quantidade" : ""}
                         "Desired Date" : "",
                         "Due Date" : "",
                         "Customer Requested Date" : "",
