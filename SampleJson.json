@@ -33,7 +33,7 @@
                         "PO Line Order Quantity" : "",
                         "Desired Date" : "",
                         "Due Date" : "",
-                        "Customer Requested Date" : "",
+                        "Customer Requested Date" : ""
                      },
                      {
                         "Customer Product Code" : 6464,
@@ -52,7 +52,7 @@
                         
                         "Desired Date" : "",
                         "Due Date" : "",
-                        "Customer Requested Date" : "",
+                        "Customer Requested Date" : ""
                      }  
                    ],
 }
