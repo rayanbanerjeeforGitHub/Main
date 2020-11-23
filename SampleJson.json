@@ -17,7 +17,7 @@
    "Customer Requested Date" : "",
    "BillToID" : 1231,
    "SoldToID" : 6231,
-   "Order Lines" : [
+   "OrderLines" : [
                      {
                         "Customer Product Code" : 6464,
                         "Prdocut Code(MFG)" : "",
