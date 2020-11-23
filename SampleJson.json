@@ -2,7 +2,7 @@
    "CustomerName" : "Rayan2",
    "Customer PO Number" : 100,
    "Customer PO Date" : "null",
-   "CustomerPurchaseOrderNumber" : 210,
+   "CustomerPurchaseOrderNumber" : 2101,
    "CustomerPurchaseOrderLine" : "New One",
    "ProductCode" : 120,
    "Type of Offer" : "null",
@@ -15,8 +15,8 @@
    "Desired Date" : "",
    "Due Date" : "",
    "Customer Requested Date" : "",
-   "BillToID" : 123,
-   "SoldToID" : 623,
+   "BillToID" : 1231,
+   "SoldToID" : 6231,
    "Order Lines" : [
                      {
                         "Customer Product Code" : 6464,
