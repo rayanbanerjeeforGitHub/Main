@@ -23,7 +23,7 @@
                         "Customer Product Code" : 64645,
                         "Prdocut Code(MFG)" : "",
                         "OrderQuantity" : 21313,
-                        "OrderQuantityUOM" : "null",
+                        "OrderQuantityUOM" : "Meter",
                         "SlitSequence" : 45,
                         "SlitRolCount" : 21,
                         "SlitWIdth" : 123,
