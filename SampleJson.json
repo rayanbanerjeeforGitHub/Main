@@ -1,15 +1,15 @@
 {
    "AccountID" : "0016000000GCsQPAA1", 
-   "BillToID"  : "0016000000GCsQPAA1,"
+   "BillToID"  : "0016000000GCsQPAA1",
     "ShipToID" : "0016000000GCsQPAA1",
     "Type of Offer" : "c",
     "POTimeStamp" : "2020-12-02 15:41:14",
     "CustomerRequestedDate" : "2020-12-15",
     "CustomerPONumber" : "",
     "CustomerPODate" : "2020-11-27",
-    "OrderAdditionaAttributes" : [{""JOBNBR"" : ""AO726E""},{""PRODGRP"" : ""M""} ,{""DOCKNBR"" : ""10""} ,{""WHSENBR"" : ""75""} ],
+    "OrderAdditionaAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ],
     "Currency" : "USD",
-    "Comments" : ""Any additional comment",
+    "Comments" : "Any additional comment",
     "OrderLines" : [
                        {
                           "CustomerOrderLineNumber" : 2,
@@ -24,7 +24,7 @@
                           "SlitLengthUOM" : "ml",
                           "SlitNumber" : "4", 
                           "POLineDesiredDate" : "2020-12-15",
-                          "OrderLineAdditionaAttributes" : [{""JOBNBR"" : ""AO726E""},{""PRODGRP"" : ""M""} ,{""DOCKNBR"" : ""10""} ,{""WHSENBR"" : ""75""} ]
+                          "OrderLineAdditionaAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ]
                        },
                        {
                           "CustomerOrderLineNumber" : 2,
@@ -39,7 +39,7 @@
                           "SlitLengthUOM" : "ml",
                           "SlitNumber" : "4", 
                           "POLineDesiredDate" : "2020-12-15",
-                          "OrderLineAdditionaAttributes" : [{""JOBNBR"" : ""AO726E""},{""PRODGRP"" : ""M""} ,{""DOCKNBR"" : ""10""} ,{""WHSENBR"" : ""75""} ]
+                          "OrderLineAdditionaAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ]
                        }
                    ]
 }
