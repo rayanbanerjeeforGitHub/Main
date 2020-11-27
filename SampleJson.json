@@ -1,62 +1,45 @@
 {
-   "CustomerName" : "Rayan2",
-   "Customer PO Number" : 100,
-   "Customer PO Date" : "null",
-   "CustomerPurchaseOrderNumber" : 2101,
-   "CustomerPurchaseOrderLine" : "New One",
-   "ProductCode" : 120,
-   "Type of Offer" : "null",
-   "Date of reception of PO" : "2020-02-20",
-   "Time of reception of PO" : "20:20",
-   "Product Type" : "null",
-   "Canal" : "",
-   "Site" : "",
-   "PO Line Order Quantity" : "",
-   "Desired Date" : "",
-   "Due Date" : "",
-   "Customer Requested Date" : "",
-   "BillToID" : 1231,
-   "SoldToID" : 6231,
-   
-   "OrderLines" : [
-                     {
-                        "Customer Product Code" : 64645,
-                        "Prdocut Code(MFG)" : "",
-                        "OrderQuantity" : 21313,
-                        "OrderQuantityUOM" : "Meter",
-                        "SlitSequence" : 45,
-                        "SlitRolCount" : 21,
-                        "SlitWIdth" : 123,
-                        "SlitWIdthUOM" : "null",
-                        "SlitLenght" : 221,
-                        "Length" : 12,
-                        "SlitLenghtUOM" : "null",
-                        "Product Type" : "null",
-                        "PO Line Order Quantity" : "",
-                        "Desired Date" : "",
-                        "Due Date" : "",
-                        "Customer Requested Date" : ""
-                     },
-                     {
-                        "Customer Product Code" : 6464,
-                        "Prdocut Code(MFG)" : "",
-                        "OrderQuantity" : 213,
-                        "OrderQuantityUOM" : "nooll",
-                        "SlitSequence" : 452,
-                        "SlitRolCount" : 211,
-                        "SlitWIdth" : 1234,
-                        "SlitWIdthUOM" : "noll",
-                        "SlitLenght" : 2212,
-                        "Length" : 122,
-                        "SlitLenghtUOM" : "noll",
-                        "Product Type" : "nuol",
-                        "PO Line Order Quantity" : "no",
-                        "Desired Date" : "2020-02-23",
-                        "Due Date" : "2020-02-21",
-                        "Customer Requested Date" : "2020-03-12"
-                     } 
-                  ],
-   "Customer mail" : "null"
+   "AccountID" : "0016000000GCsQPAA1", 
+   "BillToID"  : "0016000000GCsQPAA1,"
+    "ShipToID" : "0016000000GCsQPAA1",
+    "Type of Offer" : "c",
+    "POTimeStamp" : "2020-12-02 15:41:14",
+    "CustomerRequestedDate" : "2020-12-15",
+    "CustomerPONumber" : "",
+    "CustomerPODate" : "2020-11-27",
+    "OrderAdditionaAttributes" : [{""JOBNBR"" : ""AO726E""},{""PRODGRP"" : ""M""} ,{""DOCKNBR"" : ""10""} ,{""WHSENBR"" : ""75""} ],
+    "Currency" : "USD",
+    "Comments" : ""Any additional comment",
+    "OrderLines" : [
+                       {
+                          "CustomerOrderLineNumber" : 2,
+                          "CustomerOrderLineNumberSequence" : "1",
+                          "CustomerProductCode" : "F5RB2135",
+                          "MFGProductCode" : "",
+                          "POLineOrderQuantity" : "500",
+                          "POLineOrderQuantityUOM" : "M2",
+                          "SlitWIdth" : "310",
+                          "SlitWIdthUOM" : "mm",
+                          "SlitLength" : "500",
+                          "SlitLengthUOM" : "ml",
+                          "SlitNumber" : "4", 
+                          "POLineDesiredDate" : "2020-12-15",
+                          "OrderLineAdditionaAttributes" : [{""JOBNBR"" : ""AO726E""},{""PRODGRP"" : ""M""} ,{""DOCKNBR"" : ""10""} ,{""WHSENBR"" : ""75""} ]
+                       },
+                       {
+                          "CustomerOrderLineNumber" : 2,
+                          "CustomerOrderLineNumberSequence" : "1",
+                          "CustomerProductCode" : "F5RB2135",
+                          "MFGProductCode" : "",
+                          "POLineOrderQuantity" : "500",
+                          "POLineOrderQuantityUOM" : "M2",
+                          "SlitWIdth" : "310",
+                          "SlitWIdthUOM" : "mm",
+                          "SlitLength" : "500",
+                          "SlitLengthUOM" : "ml",
+                          "SlitNumber" : "4", 
+                          "POLineDesiredDate" : "2020-12-15",
+                          "OrderLineAdditionaAttributes" : [{""JOBNBR"" : ""AO726E""},{""PRODGRP"" : ""M""} ,{""DOCKNBR"" : ""10""} ,{""WHSENBR"" : ""75""} ]
+                       }
+                   ]
 }
-
- 
