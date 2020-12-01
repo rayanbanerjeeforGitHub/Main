@@ -1,0 +1,68 @@
+{
+  "AccountID" : "0016000000GCsQPAA1", 
+  "BillToID"  : "0016000000GCsQPAA1",
+  "ShipToID" : "0016000000GCsQPAA1",
+  "Type of Offer" : "C",
+  "POTimeStamp" : "2020-12-02 15:41:14",
+  "CustomerRequestedDate" : "2020-12-15",
+  "CustomerPONumber" : "",
+  "CustomerPODate" : "2020-11-27",
+  "OrderAdditionalAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ],
+  "Currency" : "USD",
+  "Comments" : "Any additional comment",
+  "OrderLines" : [
+                     {
+                        "CustomerOrderLineNumber" : 2,
+                        "CustomerOrderLineNumberSequence" : 1,
+                        "CustomerProductCode" : "F5RB2135",
+                        "MFGProductCode" : "",
+                        "POLineOrderQuantity" : "500",
+                        "POLineOrderQuantityUOM" : "M2",
+                        "CUTS" : [
+                                    {
+                                      "SlitWIdth" : "300",
+                                      "SlitWIdthUOM" : "ml",
+                                      "SlitNumber" : 1,
+                                      "SlitQty" : 4, 
+                                      "OrderLineCutAidditionalAttributes" : []
+                                    },
+                                    { 
+                                      "SlitWIdth" : "400",
+                                      "SlitWIdthUOM" : "ml",
+                                      "SlitNumber" : 2, 
+                                      "SlitQty" : 2, 
+                                      "OrderLineCutAidditionalAttributes" : []
+                                     }
+                                  ],
+                        "POLineDesiredDate" : "2020-12-15",
+                        "OrderLineAdditionalAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ]
+                     },
+                     {
+                        "CustomerOrderLineNumber" : 2,
+                        "CustomerOrderLineNumberSequence" : "1",
+                        "CustomerProductCode" : "F5RB2135",
+                        "MFGProductCode" : "",
+                        "POLineOrderQuantity" : 1000,
+                        "POLineOrderQuantityUOM" : "M2",
+                        "CUTS" : [
+                                    {
+                                      "SlitWIdth" : "300",
+                                      "SlitWIdthUOM" : "ml",
+                                      "SlitNumber" : 1,
+                                      "SlitQty" : 4, 
+                                      "OrderLineCutAidditionalAttributes" : []
+                                    },
+                                    { 
+                                      "SlitWIdth" : "400",
+                                      "SlitWIdthUOM" : "ml",
+                                      "SlitNumber" : 2, 
+                                      "SlitQty" : 2, 
+                                      "OrderLineCutAidditionalAttributes" : []
+                                     }
+                                  ],
+
+                        "POLineDesiredDate" : "2020-12-15",
+                        "OrderLineAdditionaAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ]
+                     }
+                 ]
+}
