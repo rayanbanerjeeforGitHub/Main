@@ -7,7 +7,7 @@
   "CustomerRequestedDate" : "2020-12-15",
   "CustomerPONumber" : 6546546,
   "CustomerPODate" : "2020-11-27",
-  "OrderAdditionalAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ],
+  "OrderAdditionalAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"},{"DOCKNBR" : "10"},{"WHSENBR" : "75"}],
   "Currency" : "USD",
   "Comments" : "Any additional comment",
   "OrderLines" : [
