@@ -32,11 +32,11 @@
                           "CustomerProductCode" : "F5RB21356",
                           "MFGProductCode" : "",
                           "POLineOrderQuantity" : "5001",
-                          "POLineOrderQuantityUOM" : "M2",
+                          "POLineOrderQuantityUOM" : "M",
                           "SlitWIdth" : "3101",
                           "SlitWIdthUOM" : "m",
                           "SlitLength" : "5001",
-                          "SlitLengthUOM" : "ml",
+                          "SlitLengthUOM" : "mm",
                           "SlitNumber" : "3", 
                           "POLineDesiredDate" : "2020-12-12",
                           "OrderLineAdditionaAttributes" : [{"JOBNBRa" : "AO7261E"},{"PRODGRPp" : "M2"} ,{"DOCKNBRR" : "110"} ,{"WHSENBRR" : "705"} ]
