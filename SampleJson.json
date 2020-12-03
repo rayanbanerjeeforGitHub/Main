@@ -32,7 +32,7 @@
                           "CustomerProductCode" : "F5RB21356",
                           "MFGProductCode" : "",
                           "POLineOrderQuantity" : "5001",
-                          "POLineOrderQuantityUOM" : "M",
+                          "POLineOrderQuantityUOM" : "M", 
                           "SlitWIdth" : 3101,
                           "SlitWIdthUOM" : "m",
                           "SlitLength" : "5001",
