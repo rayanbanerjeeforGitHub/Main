@@ -1,6 +1,6 @@
 {
    "AccountID" : "0016000000GCsQPAA1", 
-   "BillToID"  : 16000000GCsQPAA1,
+   "BillToID"  : "16000000GCsQPAA1",
     "ShipToID" : "0016000000GCsQPAA1",
     "Type of Offer" : "c",
     "POTimeStamp" : "2020-12-02 15:41:14",
