@@ -39,7 +39,7 @@
                           "SlitLengthUOM" : "ml",
                           "SlitNumber" : "3", 
                           "POLineDesiredDate" : "2020-12-12",
-                          "OrderLineAdditionaAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ]
+                          "OrderLineAdditionaAttributes" : [{"JOBNBRa" : "AO7261E"},{"PRODGRPp" : "M2"} ,{"DOCKNBRR" : "110"} ,{"WHSENBRR" : "705"} ]
                        }
                    ]
 }
