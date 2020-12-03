@@ -34,7 +34,7 @@
                           "POLineOrderQuantity" : "5001",
                           "POLineOrderQuantityUOM" : "M2",
                           "SlitWIdth" : "3101",
-                          "SlitWIdthUOM" : "mm",
+                          "SlitWIdthUOM" : "m",
                           "SlitLength" : "5001",
                           "SlitLengthUOM" : "ml",
                           "SlitNumber" : "3", 
