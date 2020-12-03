@@ -12,7 +12,7 @@
     "Comments" : "Any additional comment",
     "OrderLines" : [
                        {
-                          "CustomerOrderLineNumber" : 2,
+                          "CustomerOrderLineNumber" : 1,
                           "CustomerOrderLineNumberSequence" : "1",
                           "CustomerProductCode" : "F5RB2135",
                           "MFGProductCode" : "",
@@ -28,17 +28,17 @@
                        },
                        {
                           "CustomerOrderLineNumber" : 2,
-                          "CustomerOrderLineNumberSequence" : "1",
-                          "CustomerProductCode" : "F5RB2135",
+                          "CustomerOrderLineNumberSequence" : "2",
+                          "CustomerProductCode" : "F5RB21356",
                           "MFGProductCode" : "",
-                          "POLineOrderQuantity" : "500",
+                          "POLineOrderQuantity" : "5001",
                           "POLineOrderQuantityUOM" : "M2",
-                          "SlitWIdth" : "310",
+                          "SlitWIdth" : "3101",
                           "SlitWIdthUOM" : "mm",
-                          "SlitLength" : "500",
+                          "SlitLength" : "5001",
                           "SlitLengthUOM" : "ml",
-                          "SlitNumber" : "4", 
-                          "POLineDesiredDate" : "2020-12-15",
+                          "SlitNumber" : "3", 
+                          "POLineDesiredDate" : "2020-12-12",
                           "OrderLineAdditionaAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ]
                        }
                    ]
