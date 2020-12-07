@@ -1,68 +1,96 @@
 {
-  "AccountID" : "0016000000GCsQPAA1", 
-  "BillToID"  : "0016000000GCsQPAA1",
-  "ShipToID" : "0016000000GCsQPAA1",
-  "Type of Offer" : "C",
-  "POTimeStamp" : "2020-12-02 15:41:14",
-  "CustomerRequestedDate" : "2020-12-15",
-  "CustomerPONumber" : 6546546,
-  "CustomerPODate" : "2020-11-27",
-  "OrderAdditionalAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"},{"DOCKNBR" : "10"},{"WHSENBR" : "75"}],
-  "Currency" : "USD",
-  "Comments" : "Any additional comment",
-  "OrderLines" : [
-                     {
-                        "CustomerOrderLineNumber" : 2,
-                        "CustomerOrderLineNumberSequence" : 1,
-                        "CustomerProductCode" : "F5RB2135",
-                        "MFGProductCode" : "",
-                        "POLineOrderQuantity" : "500",
-                        "POLineOrderQuantityUOM" : "M2",
-                        "CUTS" : [
-                                    {
-                                      "SlitWIdth" : "300",
-                                      "SlitWIdthUOM" : "ml",
-                                      "SlitNumber" : 1,
-                                      "SlitQty" : 4, 
-                                      "OrderLineCutAidditionalAttributes" : []
-                                    },
-                                    { 
-                                      "SlitWIdth" : "400",
-                                      "SlitWIdthUOM" : "ml",
-                                      "SlitNumber" : 2, 
-                                      "SlitQty" : 2, 
-                                      "OrderLineCutAidditionalAttributes" : []
-                                     }
-                                  ],
-                        "POLineDesiredDate" : "2020-12-15",
-                        "OrderLineAdditionalAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ]
-                     },
-                     {
-                        "CustomerOrderLineNumber" : 2,
-                        "CustomerOrderLineNumberSequence" : "1",
-                        "CustomerProductCode" : "F5RB2135",
-                        "MFGProductCode" : "",
-                        "POLineOrderQuantity" : 1000,
-                        "POLineOrderQuantityUOM" : "M2",
-                        "CUTS" : [
-                                    {
-                                      "SlitWIdth" : "300",
-                                      "SlitWIdthUOM" : "ml",
-                                      "SlitNumber" : 1,
-                                      "SlitQty" : 4, 
-                                      "OrderLineCutAidditionalAttributes" : []
-                                    },
-                                    { 
-                                      "SlitWIdth" : "400",
-                                      "SlitWIdthUOM" : "ml",
-                                      "SlitNumber" : 2, 
-                                      "SlitQty" : 2, 
-                                      "OrderLineCutAidditionalAttributes" : []
-                                     }
-                                  ],
-
-                        "POLineDesiredDate" : "2020-12-15",
-                        "OrderLineAdditionaAttributes" : [{"JOBNBR" : "AO726E"},{"PRODGRP" : "M"} ,{"DOCKNBR" : "10"} ,{"WHSENBR" : "75"} ]
-                     }
-                 ]
+	"AccountID" : "XTL02280", 
+	"BillToID"  : "XTL02280",
+	"BillToName"  : "ACME MFG",
+	"ShipToID" : "XTL02280",
+	"ShipToName" : "ACME MFG - SITE 20",
+	"ShipToAddress1" : "ADDRESS LINE 1",
+	"ShipToAddress2" : "ADDRESS LINE 2",
+	"ShipToAddress3" : "ADDRESS LINE 3",
+	"ShipToCity" : "CITY",
+	"ShipToCountrySubdivision" : "REGION",
+	"ShipToPostalCode" : "12345",
+	"ShipToCountry" : "COUNTRY",
+	"POTimeStamp" : "2020-12-02 15:41:14",
+	"CustomerRequestedDate" : "2020-12-15",
+	"CustomerPONumber" : "PO-12345",
+	"CustomerPODate" : "2020-11-27",
+	"OrderAdditionalAttributes" : [
+		{
+		"Qualifier" : "AO726E", 
+		 "Value" : "M"
+		 },
+		{
+		 "Qualifier" : "10", 
+		 "Value" : "75"
+		} ],
+    "Currency" : "USD",
+    "Comments" : "Any additional comment",
+    "OrderLines" : [
+		{
+		"CustomerOrderLineNumber" : "A002",
+		"POLineNumber" : 1,	 
+ 		"CustomerProductCode" : "ABCDEF",
+		"MFGProductCode" : "F5RB2135",
+		"ProductDescription" : "DESCRIPTION IS PLACED HERE",
+		"POLineOrderQuantity" : "1000",
+		"POLineOrderQuantityUOM" : "M2",
+		"POLineDesiredDate" : "2020-12-22",
+		"Length" : "700", 
+		"LengthUOM" : "ml",
+		"CUTS" : [                          
+			{ 
+			"SlitNumber" : "1", 
+			"SlitQty" : "4", 
+			"SlitWidth" : "300", 
+			"SlitWIdthUOM" : "mm",
+			"SlitLength" : "500", 
+			"SlitLengthUOM" : "m",
+			"SlitPOLineNumber" : 1,	
+			"SlitCustomerProductCode": "ABCD-300",
+			"SlitCustomerProductDescription" : "Slit Level Description",
+			"OrderLineCutAdditionalAttributes" : [
+				{
+				"Qualifier" : "AO726E", 
+				"Value" : "M"
+				},
+				{
+				"Qualifier" : "10", 
+				"Value" : "75"
+				} 
+				]
+			},
+			{ 
+			"SlitNumber" : "2", 
+			"SlitQty" : "10", 
+			"SlitWIdth" : "400", 
+			"SlitWIdthUOM" : "mm",
+			"SlitLength" : "200", 
+			"SlitLengthUOM" : "m",
+			"SlitPOLineNumber" : 3,	
+			"SlitCustomerProductCode": "ABCD-400",
+			"SlitCustomerProductDescription" : "Slit Level Description",
+			"OrderLineCutAdditionalAttributes" : [ 
+					{
+					"Qualifier" : "AO726E", 
+					"Value" : "M"
+					},
+					{
+					"Qualifier" : "10", 
+					"Value" : "75"
+					} 
+					]
+			}
+			] ,
+			"OrderLineAdditionaAttributes" : [
+				{
+				"Qualifier" : "AO726E", 
+				"Value" : "M"
+				},
+				{
+				"Qualifier" : "10", 
+				"Value" : "75"
+				} ]
+			}
+   ] 
 }
