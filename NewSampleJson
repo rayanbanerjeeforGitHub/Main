@@ -13,7 +13,7 @@
 	"ShipToCountry" : "COUNTRY",
 	"POTimeStamp" : "2020-12-02 15:41:14",
 	"CustomerRequestedDate" : "2020-12-15",
-	"CustomerPONumber" : PO-12345,
+	"CustomerPONumber" : "PO-12345",
 	"CustomerPODate" : "2020-11-27",
 	"OrderAdditionalAttributes" : [
 		                          {
