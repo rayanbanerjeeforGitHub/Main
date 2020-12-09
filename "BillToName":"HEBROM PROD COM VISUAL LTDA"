@@ -32,7 +32,7 @@
             "CustomerProductCode":"MPI3802127",
             "MFGProductCode":"G5RO1806",
             "ProductDescription":"MPI3802 - 1,27M BRANCO BLOCKOUT REMOVIVEL (G5RO1806)",
-            "POLineOrderQuantity":"4",
+            "POLineOrderQuantity": 4,
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
             "OrderLineAdditionalAttributes":[
@@ -52,7 +52,7 @@
             "CustomerProductCode":"MPI3820152",
             "MFGProductCode":"G5RO2658",
             "ProductDescription":"MPI 3820 - 1,52 M - BRANCO FOSCO PERMANENTE (G5RO2658)",
-            "POLineOrderQuantity":"2",
+            "POLineOrderQuantity": 2,
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201209",
             "OrderLineAdditionalAttributes":[
@@ -72,7 +72,7 @@
             "CustomerProductCode":"MPI3822106",
             "MFGProductCode":"G5RO21817",
             "ProductDescription":"MPI3822 - 1,06M BRANCO FOSCO REMOV BLOCKOUT CINZA (G5RO1817)",
-            "POLineOrderQuantity":"2",
+            "POLineOrderQuantity": 2,
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201209",
             "OrderLineAdditionalAttributes":[
@@ -92,7 +92,7 @@
             "CustomerProductCode":"MPI3840127",
             "MFGProductCode":"G5RO2670",
             "ProductDescription":"MPI 3840 - 1,27 M - TRANSPARENTE BRILHO PERMANENTEB (G5RO2670)",
-            "POLineOrderQuantity":"4",
+            "POLineOrderQuantity": 4,
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
             "OrderLineAdditionalAttributes":[
@@ -112,7 +112,7 @@
             "CustomerProductCode":"SLP3900/106",
             "MFGProductCode":"G5RO2052",
             "ProductDescription":"SLP 3900 BRANCO BRILHO PERMANENTE - 1,06M (G5RO2052)",
-            "POLineOrderQuantity":"10",
+            "POLineOrderQuantity": 10,
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
             "OrderLineAdditionalAttributes":[
@@ -132,7 +132,7 @@
             "CustomerProductCode":"SLP3900/127",
             "MFGProductCode":"G5RO2053",
             "ProductDescription":"SLP 3900 BRANCO BRILHO PERMANENTE - 1,27M (G5RO2053)",
-            "POLineOrderQuantity":"5",
+            "POLineOrderQuantity": 5,
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
             "OrderLineAdditionalAttributes":[
@@ -151,7 +151,7 @@
             "POLineNumber":7,
             "CustomerProductCode":"SLP3920/106",
             "ProductDescription":"SLP 3920 BRANCO FOSCO PERMANENTE - 1,06M",
-            "POLineOrderQuantity":"10",
+            "POLineOrderQuantity": 10,
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
             "OrderLineAdditionalAttributes":[
