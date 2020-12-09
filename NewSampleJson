@@ -16,81 +16,83 @@
 	"CustomerPONumber" : "PO-12345",
 	"CustomerPODate" : "2020-11-27",
 	"OrderAdditionalAttributes" : [
-		{
-		"Qualifier" : "AO726E", 
-		 "Value" : "M"
-		 },
-		{
-		 "Qualifier" : "10", 
-		 "Value" : "75"
-		} ],
-    "Currency" : "USD",
-    "Comments" : "Any additional comment",
-    "OrderLines" : [
-		{
-		"CustomerOrderLineNumber" : "A002",
-		"POLineNumber" : 1,	 
- 		"CustomerProductCode" : "ABCDEF",
-		"MFGProductCode" : "F5RB2135",
-		"ProductDescription" : "DESCRIPTION IS PLACED HERE",
-		"POLineOrderQuantity" : "1000",
-		"POLineOrderQuantityUOM" : "M2",
-		"POLineDesiredDate" : "2020-12-22",
-		"Length" : "700", 
-		"LengthUOM" : "ml",
-		"CUTS" : [                          
-			{ 
-			"SlitNumber" : "1", 
-			"SlitQty" : "4", 
-			"SlitWidth" : "300", 
-			"SlitWIdthUOM" : "mm",
-			"SlitLength" : "500", 
-			"SlitLengthUOM" : "m",
-			"SlitPOLineNumber" : 1,	
-			"SlitCustomerProductCode": "ABCD-300",
-			"SlitCustomerProductDescription" : "Slit Level Description",
-			"OrderLineCutAdditionalAttributes" : [
-				{
-				"Qualifier" : "AO726E", 
-				"Value" : "M"
-				},
-				{
-				"Qualifier" : "10", 
-				"Value" : "75"
-				} 
-				]
-			},
-			{ 
-			"SlitNumber" : "2", 
-			"SlitQty" : "10", 
-			"SlitWIdth" : "400", 
-			"SlitWIdthUOM" : "mm",
-			"SlitLength" : "200", 
-			"SlitLengthUOM" : "m",
-			"SlitPOLineNumber" : 3,	
-			"SlitCustomerProductCode": "ABCD-400",
-			"SlitCustomerProductDescription" : "Slit Level Description",
-			"OrderLineCutAdditionalAttributes" : [ 
-					{
-					"Qualifier" : "AO726E", 
-					"Value" : "M"
-					},
-					{
-					"Qualifier" : "10", 
-					"Value" : "75"
-					} 
-					]
-			}
-			] ,
-			"OrderLineAdditionaAttributes" : [
-				{
-				"Qualifier" : "AO726E", 
-				"Value" : "M"
-				},
-				{
-				"Qualifier" : "10", 
-				"Value" : "75"
-				} ]
-			}
-   ] 
+		                          {
+		                             "Qualifier" : "AO726E", 
+		                             "Value" : "M"
+		                          },
+		                          {
+		                              "Qualifier" : "10", 
+		                              "Value" : "75"
+		                          } 
+				      ],
+       "Currency" : "USD",
+       "Comments" : "Any additional comment",
+       "OrderLines" : [
+		         {
+		            "CustomerOrderLineNumber" : "A002",
+		            "POLineNumber" : 1,	 
+ 		            "CustomerProductCode" : "ABCDEF",
+		            "MFGProductCode" : "F5RB2135",
+		            "ProductDescription" : "DESCRIPTION IS PLACED HERE",
+		            "POLineOrderQuantity" : "1000",
+		            "POLineOrderQuantityUOM" : "M2",
+		            "POLineDesiredDate" : "2020-12-22",
+		            "Length" : "700", 
+		            "LengthUOM" : "ml",
+		            "CUTS" : [                          
+			                { 
+			                  "SlitNumber" : "1", 
+			                  "SlitQty" : "4", 
+			                  "SlitWidth" : "300", 
+			                  "SlitWIdthUOM" : "mm",
+			                  "SlitLength" : "500", 
+			                  "SlitLengthUOM" : "m",
+			                  "SlitPOLineNumber" : 1,	
+			                  "SlitCustomerProductCode": "ABCD-300",
+			                  "SlitCustomerProductDescription" : "Slit Level Description",
+			                  "OrderLineCutAdditionalAttributes" : [
+				                                                   {
+				                                                      "Qualifier" : "AO726E", 
+				                                                      "Value" : "M"
+				                                                   },
+				                                                   { 
+				                                                       "Qualifier" : "10", 
+				                                                       "Value" : "75"
+				                                                   } 
+				                                               ]
+			               },
+			               { 
+			                   "SlitNumber" : "2", 
+			                   "SlitQty" : "10", 
+			                   "SlitWIdth" : "400", 
+			                   "SlitWIdthUOM" : "mm",
+			                   "SlitLength" : "200", 
+			                   "SlitLengthUOM" : "m",
+			                   "SlitPOLineNumber" : 3,	
+			                   "SlitCustomerProductCode": "ABCD-400",
+			                   "SlitCustomerProductDescription" : "Slit Level Description",
+			                   "OrderLineCutAdditionalAttributes" : [ 
+					                                           {
+					                                              "Qualifier" : "AO726E", 
+				                                                      "Value" : "M"
+					                                           },
+					                                           {
+					                                              "Qualifier" : "10", 
+					                                              "Value" : "75"
+					                                           } 
+					                                        ]
+			              }
+			           ],
+			    "OrderLineAdditionaAttributes" : [
+				                            {
+				                               "Qualifier" : "AO726E", 
+				                               "Value" : "M"
+				                            },
+				                            {
+				                               "Qualifier" : "10", 
+			             	                       "Value" : "75"
+				                            } 
+			 	                         ]
+			  }
+                  ] 
 }
