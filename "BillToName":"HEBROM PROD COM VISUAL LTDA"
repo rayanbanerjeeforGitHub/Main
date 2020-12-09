@@ -35,7 +35,7 @@
             "POLineOrderQuantity":"4",
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
-            "OrderLineAdditionaAttributes":[
+            "OrderLineAdditionalAttributes":[
                 {
                     "Qualifier":"DockNumber",
                     "Value":"10"
@@ -55,7 +55,7 @@
             "POLineOrderQuantity":"2",
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201209",
-            "OrderLineAdditionaAttributes":[
+            "OrderLineAdditionalAttributes":[
                 {
                     "Qualifier":"DockNumber",
                     "Value":"10"
@@ -75,7 +75,7 @@
             "POLineOrderQuantity":"2",
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201209",
-            "OrderLineAdditionaAttributes":[
+            "OrderLineAdditionalAttributes":[
                 {
                     "Qualifier":"DockNumber",
                     "Value":"10"
@@ -95,7 +95,7 @@
             "POLineOrderQuantity":"4",
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
-            "OrderLineAdditionaAttributes":[
+            "OrderLineAdditionalAttributes":[
                 {
                     "Qualifier":"DockNumber",
                     "Value":"10"
@@ -115,7 +115,7 @@
             "POLineOrderQuantity":"10",
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
-            "OrderLineAdditionaAttributes":[
+            "OrderLineAdditionalAttributes":[
                 {
                     "Qualifier":"DockNumber",
                     "Value":"10"
@@ -135,7 +135,7 @@
             "POLineOrderQuantity":"5",
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
-            "OrderLineAdditionaAttributes":[
+            "OrderLineAdditionalAttributes":[
                 {
                     "Qualifier":"DockNumber",
                     "Value":"10"
@@ -154,7 +154,7 @@
             "POLineOrderQuantity":"10",
             "POLineOrderQuantityUOM":"RL",
             "POLineDesiredDate":"20201210",
-            "OrderLineAdditionaAttributes":[
+            "OrderLineAdditionalAttributes":[
                 {
                     "Qualifier":"DockNumber",
                     "Value":"10"
