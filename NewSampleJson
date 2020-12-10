@@ -64,11 +64,11 @@
 			               { 
 			                   "SlitNumber" : 2, 
 			                   "SlitQty" : 10, 
-			                   "SlitWIdth" : 400, 
+			                   "SlitWidth" : 400, 
 			                   "SlitWIdthUOM" : "mm",
 			                   "SlitLength" : 200, 
 			                   "SlitLengthUOM" : "m",
-			                   "SlitPOLineNumber" : 3,	
+			                   "SlitPOLineNumber" : 2,	
 			                   "SlitCustomerProductCode": "ABCD-400",
 			                   "SlitCustomerProductDescription" : "Slit Level Description",
 			                   "OrderLineCutAdditionalAttributes" : [ 
