@@ -83,7 +83,7 @@
 					                                        ]
 			              }
 			           ],
-			    "OrderLineAdditionaAttributes" : [
+			    "OrderLineAdditionalAttributes" : [
 				                            {
 				                               "Qualifier" : "AO726E", 
 				                               "Value" : "M"
