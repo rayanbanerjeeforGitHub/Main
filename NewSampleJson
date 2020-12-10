@@ -85,11 +85,11 @@
             ],
             "OrderLineAdditionalAttributes":[
                 {
-                    "Qualifier":"AO726E",
+                    "Qualifier":"AO726E112",
                     "Value":"M"
                 },
                 {
-                    "Qualifier":"10",
+                    "Qualifier":"10112",
                     "Value":"75"
                 }
             ]
