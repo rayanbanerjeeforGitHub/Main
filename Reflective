@@ -31,7 +31,7 @@
             "POLineNumber":1,
             "CustomerProductCode":"9504837",
             "ProductDescription":"ADESIVO REFLETIVO LATERAL - 50 X 300",
-            "POLineOrderQuantity":"15000",
+            "POLineOrderQuantity": 15000,
             "POLineOrderQuantityUOM":"M2",
             "POLineDesiredDate":"2021-01-18",
             "OrderLineAdditionaAttributes":[
@@ -50,7 +50,7 @@
             "POLineNumber":2,
             "CustomerProductCode":"9512399",
             "ProductDescription":"ADESIVO REFLETIVO LATERAL - 50 X 300 P/BAU LONADO",
-            "POLineOrderQuantity":"4500",
+            "POLineOrderQuantity": 4500,
             "POLineOrderQuantityUOM":"M2",
             "POLineDesiredDate":"2021-01-18",
             "OrderLineAdditionaAttributes":[
