@@ -1,0 +1,68 @@
+{
+    "AccountID":"XTL06439",
+    "BillToID":"XTL06439",
+    "BillToName":"LIBRELATO S.A. IMPL RODOV(CNPJ 75.274.316/0003-32)",
+    "ShipToID":"XTL06439",
+    "ShipToName":"LIBRELATO S.A. IMPLEMENTOS RODOVIARIOS",
+    "ShipToAddress1":"ROD SC445,KM 7,5, - PRIMEIRO DE MAIO",
+    "ShipToCity":"ICARA",
+    "ShipToCountrySubdivision":"SC",
+    "ShipToPostalCode":"88820000",
+    "ShipToCountry":"BRAZIL",
+    "POTimeStamp":"2020-11-24 05:41:14",
+    "CustomerRequestedDate":"2021-01-18",
+    "CustomerPONumber":"A46296",
+    "CustomerPODate":"2020-11-24",
+    "OrderAdditionalAttributes":[
+        {
+            "Qualifier":"AO726E",
+            "Value":"M"
+        },
+        {
+            "Qualifier":"AO726E",
+            "Value":"M"
+        }
+    ],
+    "Currency":"BRL",
+    "Comments":"Any additional comment",
+    "OrderLines":[
+        {
+            "CustomerOrderLineNumber":"001",
+            "POLineNumber":1,
+            "CustomerProductCode":"9504837",
+            "ProductDescription":"ADESIVO REFLETIVO LATERAL - 50 X 300",
+            "POLineOrderQuantity":"15000",
+            "POLineOrderQuantityUOM":"M2",
+            "POLineDesiredDate":"2021-01-18",
+            "OrderLineAdditionaAttributes":[
+                {
+                    "Qualifier":"DockNumber",
+                    "Value":"10"
+                },
+                {
+                    "Qualifier":"JobNumber",
+                    "Value":"A-87623"
+                }
+            ]
+        },
+        {
+            "CustomerOrderLineNumber":"002",
+            "POLineNumber":2,
+            "CustomerProductCode":"9512399",
+            "ProductDescription":"ADESIVO REFLETIVO LATERAL - 50 X 300 P/BAU LONADO",
+            "POLineOrderQuantity":"4500",
+            "POLineOrderQuantityUOM":"M2",
+            "POLineDesiredDate":"2021-01-18",
+            "OrderLineAdditionaAttributes":[
+                {
+                    "Qualifier":"DockNumber",
+                    "Value":"10"
+                },
+                {
+                    "Qualifier":"JobNumber",
+                    "Value":"A-87623"
+                }
+            ]
+        }
+    ]
+}
