@@ -31,7 +31,7 @@
             "CustomerOrderLineNumber":"1",
             "POLineNumber":1,
             "CustomerProductCode":"700100223",
-            "POLineOrderQuantity":"34496",
+            "POLineOrderQuantity": 34496,
             "POLineOrderQuantityUOM":"M2",
             "POLineDesiredDate":"2020-09-14",
             "Length": 4000,
