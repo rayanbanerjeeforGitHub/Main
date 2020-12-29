@@ -57,7 +57,7 @@
                     "SlitPOLineNumber":1
                 },
                 {
-                    "SlitNumber":"2",
+                    "SlitNumber":"3",
                     "SlitQty":"2",
                     "SlitWidth":"296",
                     "SlitWIdthUOM":"mm",
@@ -66,7 +66,7 @@
                     "SlitPOLineNumber":1
                 },
                 {
-                    "SlitNumber":"3",
+                    "SlitNumber":"4",
                     "SlitQty":"15",
                     "SlitWidth":"312",
                     "SlitWIdthUOM":"mm",
@@ -75,7 +75,7 @@
                     "SlitPOLineNumber":1
                 },
                 {
-                    "SlitNumber":"4",
+                    "SlitNumber":"5",
                     "SlitQty":"1",
                     "SlitWidth":"1500",
                     "SlitWIdthUOM":"mm",
