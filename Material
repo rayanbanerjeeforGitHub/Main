@@ -34,52 +34,52 @@
             "POLineOrderQuantity":"34496",
             "POLineOrderQuantityUOM":"M2",
             "POLineDesiredDate":"2020-09-14",
-            "Length":"4000",
+            "Length": 4000,
             "LengthUOM":"m",
             "CUTS":[
                 {
                     "SlitNumber":"1",
-                    "SlitQty":"10",
-                    "SlitWidth":"109",
+                    "SlitQty": 10,
+                    "SlitWidth": 109,
                     "SlitWIdthUOM":"mm",
-                    "SlitLength":"4000",
+                    "SlitLength": 4000,
                     "SlitLengthUOM":"m",
                     "SlitPOLineNumber":1,
                     "SlitCustomerProductDescription":"PP Branco Fosco NTC/S0290/60F06870B 109mm"
                 },
                 {
                     "SlitNumber":"2",
-                    "SlitQty":"3",
-                    "SlitWidth":"254",
+                    "SlitQty": 3,
+                    "SlitWidth": 254,
                     "SlitWIdthUOM":"mm",
-                    "SlitLength":"4000",
+                    "SlitLength": 4000,
                     "SlitLengthUOM":"m",
                     "SlitPOLineNumber":1
                 },
                 {
                     "SlitNumber":"3",
-                    "SlitQty":"2",
-                    "SlitWidth":"296",
+                    "SlitQty": 2,
+                    "SlitWidth": 296,
                     "SlitWIdthUOM":"mm",
-                    "SlitLength":"4000",
+                    "SlitLength": 4000,
                     "SlitLengthUOM":"m",
                     "SlitPOLineNumber":1
                 },
                 {
                     "SlitNumber":"4",
-                    "SlitQty":"15",
-                    "SlitWidth":"312",
+                    "SlitQty": 15,
+                    "SlitWidth": 312,
                     "SlitWIdthUOM":"mm",
-                    "SlitLength":"2000",
+                    "SlitLength": 2000,
                     "SlitLengthUOM":"m",
                     "SlitPOLineNumber":1
                 },
                 {
                     "SlitNumber":"5",
-                    "SlitQty":"1",
-                    "SlitWidth":"1500",
+                    "SlitQty": 1,
+                    "SlitWidth": 1500,
                     "SlitWIdthUOM":"mm",
-                    "SlitLength":"4000",
+                    "SlitLength": 4000,
                     "SlitLengthUOM":"m",
                     "SlitPOLineNumber":1
                 }
